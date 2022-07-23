@@ -1,8 +1,19 @@
+The scope of this project is to educate and provide a platform for young adult to get exposed to the blockchain technology especially the DAO system. 
+
+- Educating and training young adults on the blockchain technology and its uses.
+    1. This process will entail taking each student through three courses. They are the 
+        1. Basic class that will run for a period of eight weeks with a curriculum running from the introduction to the internet taking a week, introduction to blockchain taking five weeks and a class project on creating a harsh and harsh utilization for two weeks.
+        2. Intermediate class that will run for a period of eight weeks with a curriculum running from introduction to blockchain tools taking a week, block explorer, blockchain addresses and how they are created, wallet creation running for four weeks and a three weeks class project on wallet creation, transactions and gas fees.
+        3. Master class that will also run for a period of eight weeks with a curriculum running from introduction to smart contracts taking two weeks, introduction to Decentralized Finance, Decentralized Autonomous Organization running for four weeks and a two weeks class project on creating a DAO. 
+- Create ambassadors for KBM and Aragon from the best students of these training programs.
+    - Students who have shown exemplary contributions in their conduct during the course of the training and are committed to helping spread the importance of early education of the blockchain technology will be given an opportunity to participate in the Aragon Ambassador program.
+- Create an international student program where students from different part of the world can get to collaborate on different activities and projects pertaining to DAO functions and using Aragon products via test networks.
+![image](https://user-images.githubusercontent.com/85162848/180611433-f223556c-4747-4947-ba3a-023427929d42.png)
 
 
 Introduction
 
-This curriculum is designed for 12-weeks of learning and exploring different blockchain concepts, as well as developing decentralized applications on the blockchain. It is designed in such a way as to ensure the following :
+This curriculum is designed for 8-weeks of learning and exploring different blockchain concepts, as well as developing decentralized applications on the blockchain. It is designed in such a way as to ensure the following :
 That every student is actively carried along 
 Students are able to measurably increase their confidence level at the end of the learning duration
 Students are able to transition smoothly from web2.0 to web3.0
@@ -31,6 +42,8 @@ Each learning path comprises 4 in-depth modules tailored specially for the stude
 2 weeks for final group task :
 
 This is the final phase of the learning path, where students are tasked to build an MVP project and would be certified.
+
+
 
 1 week for wrap up
 
