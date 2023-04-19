@@ -171,7 +171,7 @@ Success to Date: We currently have a community of over 5000 active web3 users,le
 
 We have partnered with Metaversiity Florida which offer intermediate and advanced classes on Metaverse and require participants to go through our basic classes. 
 
-Just recently KBM was granted access by the FCT Education Board to the Senior High Schools in Abuja (capital of Nigeria) to establish blockchain clubs piloting the I-Learn the Blocks program with 20 Schools. 
+Just recently KBM was granted access by the Nigerian Government through the FCT Education Board to the Senior High Schools in Abuja (capital of Nigeria) to establish blockchain clubs in all FCT High Schools piloting the I-Learn the Blocks program with 20 Schools. 
 
 This partnership has seen our course registrations skyrocket with a database of over 3000 students seeking opportunity to discover the opportunities that Web3 brings. 
 
