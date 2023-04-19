@@ -1,3 +1,5 @@
+![kbm png](https://user-images.githubusercontent.com/85162848/233156524-3e65b539-06dc-4f0a-8794-c6262ea73d9d.png)
+
 KNOW THE BLOCKS MAVEN is an educational program training Nigerian youth (15- 30 years) and Special Needs Students about the Web3 and Blockchain ecosystems. 
 
 We have a vision of hope that - despite rising unemployment, limited education and financial barriers  - through grassroots education, our youth can believe themselves capable and become active contributors to the future of blockchain and financial sovereignty.
