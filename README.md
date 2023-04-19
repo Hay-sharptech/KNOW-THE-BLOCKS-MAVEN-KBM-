@@ -1,4 +1,5 @@
-![kbm png](https://user-images.githubusercontent.com/85162848/233156524-3e65b539-06dc-4f0a-8794-c6262ea73d9d.png)
+![kbmm](https://user-images.githubusercontent.com/85162848/233161704-9edba359-c793-4ec7-9fc8-c6e77180f7d9.jpg)
+
 
 KNOW THE BLOCKS MAVEN is an educational program training Nigerian youth (15- 30 years) and Special Needs Students about the Web3 and Blockchain ecosystems. 
 
@@ -28,66 +29,119 @@ Basic Class
 This curriculum is designed for 12-weeks of learning and exploring different blockchain concepts where you will measurably increase confidence level at the end of the learning duration from zero knowledge to basic knowledge in Blockchain Technology. Each module requires one hour thirty minutes of active presence in class per week.
 
 Learning Paths :
+
 1.The Internet and Evolution of the Web.
+
 2.Blockchain and its tools.
+
 3.Types of Blockchain
+
 4.Cryptography
+
 5.Consensus Mechanism.
+
 6.Ethereum 
+
 7.Exploring Decentralised Finance (DeFi)
+
 8.Understanding NFTs
+
 9.Understanding Metaverse
+
 10.Understanding DAOs
+
 11.Careers in the Blockchain
+
 12.Class Project.
 
 Intermediate Class
+
 This curriculum is designed for 14-weeks of learning and exploring different blockchain concepts for people who are interested in exploring different career paths in the Blockchain either in the technical and non-technical aspects of the ecosystem. 
 You will be able to show the provable results for the skills acquired after finishing the course by completing assigned projects and participating in various hackathons in the Blockchain Ecosystem. Each module requires two hours of active participation in class per week.
 
 Learning Paths :
+
 Non-Technical Course
-1.Researching Blockchain Technology use cases
-2.Smart contracts
-3.Virtual Assets
-4.Transactions in Action
-5.Wallets, Types and Attributions
-6.Centralised Exchanges and Decentralised Exchanges
-7.DAOs under a microscope
-8.Governance Models
-9.NFTs and Market Place
-10.Importance of Community in Web3
-11.Exploring  Ethereum ecosystem
-12.Tokenomics and the part to Token Engineering 
-13.White paper and Web3 Project Dynamics
+
+1. Researching Blockchain Technology use cases
+
+2. Smart contracts
+
+3. Virtual Assets
+
+4. Transactions in Action
+
+5. Wallets, Types and Attributions
+
+6. Centralised Exchanges and Decentralised Exchanges
+
+7. DAOs under a microscope
+
+8. Governance Models
+
+9. NFTs and Market Place
+
+10. Importance of Community in Web3
+
+11. Exploring  Ethereum ecosystem
+
+12. Tokenomics and the part to Token Engineering 
+
+13. White paper and Web3 Project Dynamics
+
 
 Technical Course ( Coding Languages in Web2.0)
-Introduction to Web Development
-HTML Fundamentals
-CSS Fundamentals
-JavaScript Basics
-DOM Manipulation with JavaScript
-Introduction to Node.js
-Creating Web Applications with Node.js
+
+Learning Paths:
+
+1. Introduction to Web Development
+
+2. HTML Fundamentals
+
+3. CSS Fundamentals
+
+4. JavaScript Basics
+
+5. DOM Manipulation with JavaScript
+
+6. Introduction to Node.js
+
+7. Creating Web Applications with Node.js
 
 Master Class
+
 This curriculum is designed for 14-weeks of learning to become a Blockchain developer. You will be able to transition smoothly from the knowledge of Web2.0 to Web 3.0. 
 Each module requires three hours of active participation in class per week. 
+
 Learning Paths:
-1.Introduction to development on Ethereum
-2.Solidity
-3.Setting up your development environment
-4.Your first Dapp
-5.Typing and Your Contracts Storage
-6.JavaScript API 1
-7.Contracts That Send Transactions
-8.Javascript API 2
-9.Function Visibility and Global Variables
-10.Interactions Between Contracts
-11.Two party contracts
-12.JavaScript API 3
-13.Event Logging
-14.Gas and GasPrice
+
+1. Introduction to development on Ethereum
+
+2. Solidity
+
+3. Setting up your development environment
+
+4. Your first Dapp
+
+5. Typing and Your Contracts Storage
+
+6. JavaScript API 1
+
+7. Contracts That Send Transactions
+
+8. Javascript API 2
+
+9. Function Visibility and Global Variables
+
+10. Interactions Between Contracts
+
+11. Two party contracts
+
+12. JavaScript API 3
+
+13. Event Logging
+
+14. Gas and GasPrice
 
 
 Success to Date: Six of our Cohort 1 (2021) pilot participants proceeded to the intermediate and master classes and three of them are now core contributors at two Decentralized Autonomous organizations (DAO) namely Aragon Network DAO and Bankless DAO. 
